@@ -4,6 +4,8 @@ color black
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id cateList
+id cateRec
 id category
 id description
 id image
@@ -13,8 +15,10 @@ id productRec
 id rateing
 id rati
 id title
+layout activity_category
 layout activity_main
 layout activity_product_details
+layout category_list
 layout product_view
 mipmap ic_launcher
 mipmap ic_launcher_round

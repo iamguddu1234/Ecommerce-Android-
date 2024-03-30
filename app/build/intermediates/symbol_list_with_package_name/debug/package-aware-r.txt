@@ -3932,6 +3932,8 @@ id cache_measures
 id callMeasure
 id cancel_button
 id carryVelocity
+id cateList
+id cateRec
 id category
 id center
 id centerCrop
@@ -4449,8 +4451,10 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_category
 layout activity_main
 layout activity_product_details
+layout category_list
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

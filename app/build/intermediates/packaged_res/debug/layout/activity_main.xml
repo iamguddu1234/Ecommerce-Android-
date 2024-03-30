@@ -8,6 +8,15 @@
     tools:context=".MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/cateRec"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        app:spanCount="2"
+        tools:itemCount="4"
+        tools:listitem="@layout/category_list"/>
+
+    <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/productRec"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

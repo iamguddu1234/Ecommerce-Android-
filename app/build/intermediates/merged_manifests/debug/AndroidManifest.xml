@@ -30,6 +30,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.EcommerceJava" >
         <activity
+            android:name="com.example.ecommerce_java.CategoryActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.ecommerce_java.ProductDetails"
             android:exported="false" />
         <activity

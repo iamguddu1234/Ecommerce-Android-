@@ -29,11 +29,13 @@ public class ProductDetails extends AppCompatActivity {
 
         int productId = getIntent().getIntExtra("productId", -1);
         if (productId != -1) {
-            // Make API call to get product details using productId
             getProductDetails(productId);
         } else {
-            // Handle error: productId not provided
+
         }
+
+
+
     }
 
     private void getProductDetails(int productId) {

@@ -3931,6 +3931,8 @@ int id cache_measures 0x7f080063
 int id callMeasure 0x7f080064
 int id cancel_button 0x7f080065
 int id carryVelocity 0x7f080066
+int id cateList 0x7f0801fb
+int id cateRec 0x7f0801fc
 int id category 0x7f0801f6
 int id center 0x7f080067
 int id centerCrop 0x7f080068
@@ -4448,8 +4450,10 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_category 0x7f0b0071
 int layout activity_main 0x7f0b001c
 int layout activity_product_details 0x7f0b006f
+int layout category_list 0x7f0b0070
 int layout custom_dialog 0x7f0b001d
 int layout design_bottom_navigation_item 0x7f0b001e
 int layout design_bottom_sheet_dialog 0x7f0b001f

@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-main-36:/mipmap-mdpi/ic_launcher.webp"
-    },
-    {
         "merged": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-main-36:/mipmap-mdpi/ic_launcher.webp"
     },
     {
         "merged": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-merged_res-34:/drawable_ic_launcher_foreground.xml.flat",
@@ -20,12 +20,20 @@
         "source": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-merged_res-34:/layout_activity_category.xml.flat",
+        "source": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-main-36:/layout/activity_category.xml"
+    },
+    {
+        "merged": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-merged_res-34:/layout_category_list.xml.flat",
+        "source": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-main-36:/layout/category_list.xml"
+    },
+    {
         "merged": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.ecommerce_java.app-merged_res-34:/layout_product_view.xml.flat",
-        "source": "com.example.ecommerce_java.app-main-36:/layout/product_view.xml"
+        "merged": "com.example.ecommerce_java.app-merged_res-34:/layout_activity_category.xml.flat",
+        "source": "com.example.ecommerce_java.app-main-36:/layout/activity_category.xml"
     },
     {
         "merged": "/Users/akshaybhasme/.gradle/daemon/8.2/com.example.ecommerce_java.app-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",

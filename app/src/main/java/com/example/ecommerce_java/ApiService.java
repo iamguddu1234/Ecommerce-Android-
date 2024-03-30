@@ -14,4 +14,12 @@ public interface ApiService {
     @GET("products/{id}")
     Call<Model> getProductDetails(@Path("id") int productId);
 
+
+    @GET("products/categories")
+    Call<List<String>> getProductCategories();
+
+
+    @GET("products/category/{category}")
+    Call<List<Model>> getProductsByCategory(@Path("category") String category);
+
 }
